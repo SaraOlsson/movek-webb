@@ -2,8 +2,8 @@
 title: Home
 sections:
   - actions:
-      - label: Learn More
-        url: /features
+      - label: Läs er
+        url: /pricing
     content: '30 års erfarenhet av produktion, konstruktion och produktutveckling'
     image: images/hero.png
     section_id: hero

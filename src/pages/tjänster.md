@@ -8,6 +8,13 @@ sections:
         title: Konstruktion
     title: Tjänster
     type: section_features
+menus:
+  main:
+    title: Tjänster
+    weight: 1
+  secondary:
+    title: Tjänster
+    weight: 3
 template: landing
 ---
 

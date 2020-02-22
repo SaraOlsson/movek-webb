@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt
 sections:
   - bg: gray
     content: Kontakta mig för frågor om min verksamhet
@@ -8,7 +8,7 @@ sections:
     type: section_contact
 menus:
   main:
-    title: Contact
+    title: Kontakt
     weight: 3
   secondary:
     title: Contact

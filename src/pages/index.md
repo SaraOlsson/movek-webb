@@ -11,18 +11,14 @@ sections:
     type: section_hero
   - bg: gray
     featureslist:
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         image: images/feature1.png
         title: Konstruktion
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet

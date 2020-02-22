@@ -1,17 +1,18 @@
 ---
 title: Contact
 sections:
-  - type: section_contact
+  - bg: gray
+    content: Kontakta mig för frågor om min verksamhet
     section_id: contact
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
-    bg: gray
+    type: section_contact
 menus:
+  main:
+    title: Contact
+    weight: 3
   secondary:
     title: Contact
     weight: 3
 template: landing
 ---
+

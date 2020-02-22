@@ -50,7 +50,7 @@ sections:
     type: section_reviews
   - actions:
       - label: Förfrågan
-        url: /signup
+        url: /offert
     section_id: call-to-action
     subtitle: Beskriv ert önskemål så återkommer jag med prisförslag
     title: Be om offert

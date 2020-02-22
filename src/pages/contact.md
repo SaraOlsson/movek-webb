@@ -11,7 +11,7 @@ menus:
     title: Kontakt
     weight: 3
   secondary:
-    title: Contact
+    title: Kontakt
     weight: 3
 template: landing
 ---

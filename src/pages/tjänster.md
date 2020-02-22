@@ -10,11 +10,11 @@ sections:
     type: section_features
 menus:
   main:
-    title: Tjänster
-    weight: 1
+    title: ''
+    weight: ''
   secondary:
-    title: Tjänster
-    weight: 3
+    title: ''
+    weight: ''
 template: landing
 ---
 

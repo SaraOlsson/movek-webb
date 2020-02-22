@@ -20,11 +20,11 @@
     "has_subscribe": false,
     "social_title": "",
     "tagline": "",
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/Logotype.png",
     "has_social": false,
     "content": "",
     "links": [],
-    "nav_title": "Company",
+    "nav_title": "Snabblänkar",
     "has_nav": true
   }
 }

@@ -2,7 +2,7 @@
 title: Home
 sections:
   - actions:
-      - label: Läs er
+      - label: Läs mer
         url: /pricing
     content: '30 års erfarenhet av produktion, konstruktion och produktutveckling'
     image: images/hero.png

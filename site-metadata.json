@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Movek",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/Logotype.png",
     "has_nav": true,
     "menu": {
       "actions": [

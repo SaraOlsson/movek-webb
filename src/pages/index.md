@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Startsida
 sections:
   - actions:
       - label: Läs mer

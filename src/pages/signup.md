@@ -1,7 +1,7 @@
 ---
 title: Skicka en förfrågan
 subtitle: Tillsammans diskuterar vi fram hur Movek Teknik kan hjälpa er att ..
-img_path: images/11.jpg
+img_path: ''
 menus:
   secondary:
     title: Skicka en förfrågan

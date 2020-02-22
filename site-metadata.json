@@ -9,7 +9,7 @@
       "actions": [
         {
           "label": "Skicka en förfrågan",
-          "url": "/offert"
+          "url": "/signup"
         }
       ]
     }

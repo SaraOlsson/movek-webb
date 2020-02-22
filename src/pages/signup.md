@@ -1,5 +1,5 @@
 ---
-title: Skicka en förfrågan
+title: Offert
 subtitle: Tillsammans diskuterar vi fram hur Movek Teknik kan hjälpa er att ..
 img_path: ''
 menus:

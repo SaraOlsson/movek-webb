@@ -2,6 +2,12 @@
 title: Om Movek
 sections:
   - bg: gray
+    content: >-
+      Efter närmare 30 år som anställd på högteknologiska industriföretag som
+      Seco Tools och ABB Robotics och Robotdalen har jag sedan 2019 ..
+    title: Om Movek Teknik
+    type: section_content
+  - bg: gray
     faqitems:
       - answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
@@ -28,12 +34,6 @@ sections:
     subtitle: ''
     title: Vanliga frågor
     type: section_faq
-  - bg: gray
-    content: >-
-      Efter närmare 30 år som anställd på högteknologiska industriföretag som
-      Seco Tools och ABB Robotics och Robotdalen har jag sedan 2019 ..
-    title: Om Movek Teknik
-    type: section_content
 menus:
   main:
     title: Om Movek

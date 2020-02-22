@@ -53,7 +53,7 @@ sections:
     type: section_cta
 menus:
   main:
-    title: Home
+    title: Startsida
     weight: 1
 template: landing
 ---

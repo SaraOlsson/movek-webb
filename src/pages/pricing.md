@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Om Movek
 sections:
   - bg: gray
     faqitems:
@@ -28,9 +28,15 @@ sections:
     subtitle: ''
     title: Vanliga frågor
     type: section_faq
+  - bg: gray
+    content: >-
+      Efter närmare 30 år som anställd på högteknologiska industriföretag som
+      Seco Tools och ABB Robotics och Robotdalen har jag sedan 2019 ..
+    title: Om Movek Teknik
+    type: section_content
 menus:
   main:
-    title: Pricing
+    title: Om Movek
     weight: 3
 template: landing
 ---
